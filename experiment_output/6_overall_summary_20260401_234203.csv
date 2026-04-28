@@ -1,0 +1,2 @@
+participant_id,total_patterns,patterns_reaching_criterion,patterns_not_reaching_criterion,successful_runs,total_runs_attempted,total_successful_replications,total_attempted_replications,overall_accuracy,criterion_rate
+6,23,18,5,18,49,18,49,0.367,0.783

@@ -1,0 +1,4 @@
+participant_id,test_type,total_patterns,patterns_reaching_criterion,patterns_not_reaching_criterion,successful_runs,mean_runs_attempted,criterion_rate
+4,single_finger,5,5,0,5,1.4,1.0
+4,consistency,10,10,0,10,1.5,1.0
+4,sequence,8,1,7,1,4.5,0.125
